@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything that catch my attention
 - 🤔 I’m looking for help with 
 - 💬 Ask me about CSS SASS Javascript Flask DSA
-- 📫 How to reach me: 
-⋅⋅* [Linkedin](https://www.linkedin.com/in/vibhu-bhatia-483629167/)
-⋅⋅* [Facebook](https://www.facebook.com/profile.php?id=100008940287252)
-⋅⋅* [Instagram](https://www.instagram.com/vibhu.669/)
+- 📫 How to reach me:.
+[Linkedin](https://www.linkedin.com/in/vibhu-bhatia-483629167/).
+[Facebook](https://www.facebook.com/profile.php?id=100008940287252).
+[Instagram](https://www.instagram.com/vibhu.669/).
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am more athletic than I seem to be always up for a game of badminton or cricket.
