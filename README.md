@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 [Instagram](https://www.instagram.com/vibhu.669/).
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am more athletic than I seem to be always up for a game of badminton or cricket.
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhubhatia007&count_private=true&show_icons=true" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhubhatia007&langs_count=6&count_private=true&layout=compact&hide=Jupyter Notebook" />
