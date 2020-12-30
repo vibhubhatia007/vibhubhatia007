@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Web Technologies
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything that catch my attention
-- 🤔 I’m looking for help with 
 - 💬 Ask me about CSS SASS Javascript Flask DSA
 - 📫 How to reach me:.
 [Linkedin](https://www.linkedin.com/in/vibhu-bhatia-483629167/).
