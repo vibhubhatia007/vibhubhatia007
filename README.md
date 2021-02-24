@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <img  style="padding-left:15px;width:495px;height:240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhubhatia007&hide=Jupyter%20Notebook&langs_count=6&layout=compact&exclude_repo=LeoClubBitMesraWebsite,parkinson,,BlogingWebsite,vibhubhatia007.github.io">
 
 - 🔭 I’m currently working on Web Technologies
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on anything that catch my attention
+- 🌱 I’m currently learning React and JAM Stack.
+- 👯 I'm looking to collaborate on anything that interests me.
 - 💬 Ask me about CSS SASS Javascript Flask DSA
 - 📫 How to reach me:.
 [Linkedin](https://www.linkedin.com/in/vibhu-bhatia-483629167/).
