@@ -30,13 +30,10 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 
-<img  style="padding-left:15px;width:495px;height:240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhubhatia007&hide=Jupyter%20Notebook&langs_count=6&layout=compact&exclude_repo=LeoClubBitMesraWebsite,parkinson,,BlogingWebsite,vibhubhatia007.github.io">
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhubhatia007&count_private=true&show_icons=true&title_color=52eb34&icon_color=52eb34" />.
 
 
-
+<img  style="padding-left:15px;width:495px;height:240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhubhatia007&hide=Jupyter%20Notebook&langs_count=6&layout=compact&exclude_repo=LeoClubBitMesraWebsite,parkinson,,BlogingWebsite,vibhubhatia007.github.io">
 
 - 🔭 I’m currently working on Web Technologies
 - 🌱 I’m currently learning React
